@@ -1,2 +1,2 @@
-# image-processing
-repository for image processing project
+# LPD
+LPD project in Python using OpenCV and EasyOCR
